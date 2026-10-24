@@ -1,0 +1,28 @@
+[08-Aug-2025 14:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/divine15/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/divine15/public_html/config/database.php on line 18
+[19-Mar-2026 18:31:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/divine15/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/divine15/public_html/config/database.php on line 18
+[15-Apr-2026 07:09:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/divine15/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/divine15/public_html/config/database.php on line 18
+[15-Apr-2026 07:47:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/divine15/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/divine15/public_html/config/database.php on line 18
+[16-Sep-2026 02:29:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/divine15/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/divine15/public_html/config/database.php on line 18
+[16-Sep-2026 02:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/divine15/public_html/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home4/divine15/public_html/config/app.php on line 28
+[16-Sep-2026 02:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/divine15/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/divine15/public_html/config/services.php on line 18
